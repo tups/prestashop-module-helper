@@ -3,5 +3,8 @@
   "description": "A short description of what your package does",
   "require": {
     "php": ">=7.3"
+  },
+  "autoload": {
+    "psr-0": { "LOW\\Prestashop\\": "" }
   }
 }
