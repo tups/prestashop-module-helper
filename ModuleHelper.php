@@ -1,5 +1,6 @@
 <?php
 
+namespace LOW\Prestashop;
 
 class ModuleHelper extends \Module
 {
